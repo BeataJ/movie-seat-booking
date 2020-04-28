@@ -91,6 +91,10 @@ body {
   margin-left: 2px;
 }
 
+.row {
+  display: flex;
+}
+
 .screen {
   background-color: #fff;
   height: 70px;
@@ -100,6 +104,6 @@ body {
   box-shadow: 0 3px 10px rgba(255, 255, 255, .7);
 }
 
-.row {
-  display: flex;
+p.text span {
+  color: #6feaf6;
 }
